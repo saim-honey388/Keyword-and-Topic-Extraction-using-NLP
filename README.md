@@ -24,7 +24,7 @@ The tool preprocesses the input text, removes stop words, and extracts keywords 
 ## **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/keyword-topic-extraction-tool.git
+   git clone https://github.com/saim-honey388/Keyword-and-Topic-Extraction-using-NLP
    ```
 2. Install the required dependencies:
    ```bash
